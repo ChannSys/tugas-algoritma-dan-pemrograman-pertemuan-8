@@ -31,6 +31,7 @@ int main() {
     
     if (n > 50) {
         n = n + 10;
+        n = n + 10;
         cout << "N = " << n << endl;
     } else {
         n = n + 10;
